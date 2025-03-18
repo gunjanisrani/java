@@ -27,5 +27,6 @@ public class Rectangle {
     System.out.println("Area: " + obj.area(length,width));
     System.out.println("Perimeter: " + obj.perimeter(length,width));
 
+    sc.close();
   }
 }
